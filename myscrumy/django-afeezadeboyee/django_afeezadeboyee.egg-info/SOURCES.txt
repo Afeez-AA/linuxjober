@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.py
+afeezadeboyee/__init__.py
+afeezadeboyee/admin.py
+afeezadeboyee/apps.py
+afeezadeboyee/models.py
+afeezadeboyee/tests.py
+afeezadeboyee/urls.py
+afeezadeboyee/views.py
+afeezadeboyee/migrations/__init__.py
+django_afeezadeboyee.egg-info/PKG-INFO
+django_afeezadeboyee.egg-info/SOURCES.txt
+django_afeezadeboyee.egg-info/dependency_links.txt
+django_afeezadeboyee.egg-info/top_level.txt
