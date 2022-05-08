@@ -27,3 +27,6 @@ Quick start
    to create a afeezadeboyee (you'll need the admin app enabled).
 
 5. Visit http://127.0.0.1:8000/afeezadeboyee/ to participate in the afeezadeboyee.
+
+Im just testing out some few things
+hope it woorls thanls
